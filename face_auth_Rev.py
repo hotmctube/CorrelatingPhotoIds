@@ -1,3 +1,7 @@
+'''
+Script to analyse discrepancies from official photo documentation and actual photo
+Author: manojc
+'''
 import pandas as pd
 import ast
 import seaborn as sns
