@@ -61,8 +61,8 @@ def plot_heatmap(gen_corr_df, out_file, title_header):
     plt.show()
 
 
-doc_data_file = "C:\\Rev\doc_reports_sample.csv"
-doc_data_out_file = "C:\\Rev\doc_reports_out.csv"
+doc_data_file = "C:\\Rev\\doc_reports_sample.csv"
+doc_data_out_file = "C:\\Rev\\doc_reports_out.csv"
 face_data_file = "C:\\Rev\\face_reports_sample.csv"
 face_data_out_file = "C:\\Rev\\face_reports_out.csv"
 merged_data_out_file = "C:\\Rev\\merged_reports_out.csv"
